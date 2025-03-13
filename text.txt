@@ -1,0 +1,5 @@
+1.User Dashboard
+2.User Feedback System – Allow users to mark emails as spam or not, improving model accuracy.
+3.Attachment Scanner – Scan email attachments for malware using VirusTotal API.
+4.Categorization (Beyond Spam) – Classify emails as promotions, social, work, etc.
+5.mail summriztion
